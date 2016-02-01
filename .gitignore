@@ -43,3 +43,6 @@ Carthage/Build
 
 fastlane/report.xml
 fastlane/screenshots
+
+# APP
+Drifter/line.json
