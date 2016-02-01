@@ -11,9 +11,10 @@ import RealmSwift
 
 class Trip: Object {
     
-// Specify properties to ignore (Realm won't persist these)
+    dynamic var _id = ""
+    var direction: Int?
+    dynamic var origin = ""
+    dynamic var destination = ""
+    let departures = List<Departure>()
     
-//  override static func ignoredProperties() -> [String] {
-//    return []
-//  }
 }
