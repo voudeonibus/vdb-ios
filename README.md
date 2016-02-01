@@ -1,5 +1,7 @@
 # Vou de ônibus - iOS
 
+> [Versão em PT_BR](/README-BR.md)
+
 This is the official repo for Vou de ônibus iOS app.
 
 ## How to make this project works properly
