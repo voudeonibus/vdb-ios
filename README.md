@@ -21,7 +21,7 @@ To execute this project you'll need:
 You can clone this repo now, and...
 
 ```bash
-rvm gemset use Drifter
+rvm gemset use Drifter --create
 ```
 
 The command above tells `rvm` to use our pre-configured Ruby version, which is `2.2.1`.
