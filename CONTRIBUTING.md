@@ -18,7 +18,7 @@
 
 * [Open a new issue](https://github.com/voudeonibus/vdb-ios/issues/new)
 
-#### **Do you want to contribute to the Rails documentation?**
+#### **Do you want to contribute to the Vou de ônibus iOS documentation?**
 
 * [Open a new issue](https://github.com/voudeonibus/vdb-ios/issues/new) :)
 
