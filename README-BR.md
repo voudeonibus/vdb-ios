@@ -70,4 +70,6 @@ open Drifter.xcworkspace
 
 > Bom, é apenas um `alias` para o nome real do projeto, de qualquer forma o app vai mostrar **Vou de ônibus** no título, então eu tomei a liberdade de nomear este projeto um pouquinho diferente.
 
+---
+
 [MIT License](/LICENSE)
