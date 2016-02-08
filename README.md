@@ -69,3 +69,7 @@ open Drifter.xcworkspace
 - Why the heck **Drifter**?
 
 > Well, this is just an alias to real project name, the app will display **Vou de ônibus** anyway, so I decided to name this project a little bit different.
+
+---
+
+[MIT License](/LICENSE)
