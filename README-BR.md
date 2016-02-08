@@ -70,6 +70,10 @@ open Drifter.xcworkspace
 
 > Bom, é apenas um `alias` para o nome real do projeto, de qualquer forma o app vai mostrar **Vou de ônibus** no título, então eu tomei a liberdade de nomear este projeto um pouquinho diferente.
 
+- Quero contribuir com este projeto, como posso fazer isto?
+
+> Primeiramente, muito obrigado pelo seu interesse em nos ajudar! Convidamos você a ler o [nosso guia](/CONTRIBUTING-BR.md) de como contribuir com o Vou de ônibus iOS. :)
+
 ---
 
 [MIT License](/LICENSE)
