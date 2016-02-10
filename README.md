@@ -69,3 +69,11 @@ open Drifter.xcworkspace
 - Why the heck **Drifter**?
 
 > Well, this is just an alias to real project name, the app will display **Vou de ônibus** anyway, so I decided to name this project a little bit different.
+
+- I want to contribute with this project, how can I do that?
+
+> First of all, thank you so much for your interest in help us! We invite you to read our [contributing guide](/CONTRIBUTING.md) for more information in how can you contributing to Vou de ônibus iOS. :)
+
+---
+
+[MIT License](/LICENSE)
