@@ -72,7 +72,7 @@ open Drifter.xcworkspace
 
 - I want to contribute with this project, how can I do that?
 
-> First of all, thank you so much for your interest in help us! We invite you to read our [contributing guide](/CONTRIBUTING.md) for more information in how can you contributing to Vou de ônibus iOS. :)
+> First of all, thank you so much for your interest in help us! We invite you to read our [contributing guide](/.github/CONTRIBUTING.md) for more information in how can you contributing to Vou de ônibus iOS. :)
 
 ---
 
